@@ -1,3 +1,4 @@
+Hawaii bombay es un paraiso
 # Practical Numerical Methods with Python
 
 This project started in 2014 as a multi-campus, connected course (plus MOOC) on numerical methods for science and engineering. 
